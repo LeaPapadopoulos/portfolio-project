@@ -1,5 +1,5 @@
 body {
-  font-family: Work Sans;
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 17px;
@@ -11,7 +11,7 @@ p {
   font-size: 17px;
   line-height: 160%;
 }
-H1 {
+h1 {
   font-style: normal;
   font-weight: normal;
   font-size: 36px;
@@ -25,7 +25,7 @@ h2 {
 }
 .headline {
   font-style: normal;
-  font-weight: normal;
+  font-weight: bold;
   font-size: 20px;
   line-height: 145%;
 }
